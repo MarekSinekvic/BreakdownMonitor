@@ -1,2 +1,8 @@
 # BreakdownMonitor
-This website i wrote more then 1 year ago
+Site where display list of breakdowns in system
+Realized: 
+<ul>
+ <li>Accounts system, admin can add new accounts, edit accounts data</li>
+ <li>Display crashes, add crashes and edit crashes by admin</li>
+ <li>Archive, display resolved crashes</li>
+ </ul>
