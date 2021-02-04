@@ -10,3 +10,12 @@ Realized:
 Admin account preset:<br/>
 Login: "Admin"<br/>
 Password: "123456"
+<hr/>
+Project use:
+<ul>
+  <li>PHP</li>
+ <li>HTML</li>
+ <li>CSS</li>
+ <li>JS</li>
+ <li>Database on files</li>
+ </ul>
