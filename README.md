@@ -6,3 +6,7 @@ Realized:
  <li>Display crashes, add crashes and edit crashes by admin</li>
  <li>Archive, display resolved crashes</li>
  </ul>
+<hr/>
+Admin account preset:<br/>
+Login: "Admin"<br/>
+Password: "123456"
